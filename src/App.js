@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import classes from './App.css';
 import Person from './Person/Person';
 
-
+// hello folks
 class App extends Component {
   state={
     persons: [
